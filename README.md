@@ -1,3 +1,4 @@
+# Description
 
 This code aims to simulate the collision of two galaxies in 3D space,
 and also create a animation with the merge. 
