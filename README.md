@@ -24,7 +24,7 @@ and one for the factor projection angle of each galaxy.
 
 # Functions and Main simulation :
 
-The Functions.py and the main.py have to be on the same directory. 
+The `Functions.py` and the `main.py` have to be on the same directory. 
 Functions.py contains all the relevant functions that we utilize in the code.
 The code needs the python libraries numpy, scipy, astropy, and tqdm in order 
 to run properly. The main.py give as an output in a .txt file all the positions 
